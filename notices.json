@@ -4,13 +4,15 @@
     "title": "Tikit v1.0 출시 안내",
     "date": "2025.02.01 14:30",
     "content": "Tikit이 드디어 정식 출시되었습니다! ...",
-    "unread": true
+    "important": true,
+    "imageUrl": "https://raw.githubusercontent.com/siajoung/tikit/main/images/launch.png"
   },
   {
     "id": "20250205-01",
     "title": "사진 백업 기능 개선",
     "date": "2025.02.05 11:10",
     "content": "사진 복원 기능이 개선되었습니다...",
-    "unread": true
+    "important": false,
+    "imageUrl": ""
   }
 ]
